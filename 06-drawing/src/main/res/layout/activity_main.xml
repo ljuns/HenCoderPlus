@@ -7,6 +7,7 @@
     android:gravity="center_horizontal"
     tools:context=".MainActivity">
 
+<<<<<<< HEAD
     <com.hencoder.plus.ljuns.AvatarView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
@@ -18,4 +19,9 @@
     <com.hencoder.plus.ljuns.DashboardView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+=======
+    <com.hencoder.plus.view.ImageTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+>>>>>>> c3043b152765e293eb516d7498c4ffd6d81f8a77
 </LinearLayout>
