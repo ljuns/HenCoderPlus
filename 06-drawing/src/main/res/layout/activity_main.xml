@@ -7,21 +7,11 @@
     android:gravity="center_horizontal"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
-    <com.hencoder.plus.ljuns.AvatarView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
-    <com.hencoder.plus.ljuns.PieChartView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
-    <com.hencoder.plus.ljuns.DashboardView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-=======
-    <com.hencoder.plus.view.ImageTextView
+    <com.hencoder.plus.ljuns.SportView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
->>>>>>> c3043b152765e293eb516d7498c4ffd6d81f8a77
+
+    <com.hencoder.plus.ljuns.NewsView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </LinearLayout>
