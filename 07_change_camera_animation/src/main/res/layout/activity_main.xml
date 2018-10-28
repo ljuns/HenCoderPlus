@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.hencoder.a07_change_camera_animation.view.CameraView
+    <com.hencoder.a07_change_camera_animation.ljuns.CameraView
+        android:id="@+id/view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
