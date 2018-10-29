@@ -1,10 +1,11 @@
 package com.hencoder.a09_bitmap_drawable;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import com.hencoder.a09_bitmap_drawable.ljuns.CustomEditText;
 
 public class MainActivity extends AppCompatActivity {
-    MaterialEditText materialEditText;
+    CustomEditText materialEditText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

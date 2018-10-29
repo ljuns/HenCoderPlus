@@ -4,4 +4,8 @@
         <attr name="useFloatingLabel" format="boolean" />
         <attr name="rengwuxian" format="boolean" />
     </declare-styleable>
+
+    <declare-styleable name="CustomEditText" >
+        <attr name="floatingLabelColor" format="color" />
+    </declare-styleable>
 </resources>
